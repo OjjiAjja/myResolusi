@@ -2,7 +2,13 @@ Rencana Belajar
 - HTML
 - CSS
 - JavaScript
-- Python atau PHP (Pilih salah satu dulu for this year)
+- Python atau PHP (Pilih salah satu dulu for this year) (Ini apus aja dulu buat next year gantinya jadi)
+- Bootstrap
+- Flexbox
+- Sass
+- Webpack
+- Tailwinds
+- RestApi
 - N3 (ini seminggu 3 kali baca di app jepang lalu terjemahin)
 - Banyak-banyak Baca aja Untuk Inggris (Ini paling gampang bisa tiap hari belajar)
 - Ilmu Nahwu (Ini coba diliat dulu di yt) (sebulan 4 kali belajar tiap jum'at pilih salah satu dengan sharaf)
